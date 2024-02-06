@@ -12,4 +12,4 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/112118342?v=4" width=115><br><sub>Johnny Dutra </sub>](https://github.com/gabrielle-ribeiro) | 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/112118342?v=4" width=115><br><sub>Johnny Dutra </sub>](https://github.com/johnnydutra23) | 
